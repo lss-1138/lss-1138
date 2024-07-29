@@ -8,7 +8,3 @@
 
 
 <h3 align="center">Connect with me:  linss2000@foxmail.com</h3>
-
-## Here is My popular repository
-
-[![Star History Chart](https://api.star-history.com/svg?repos=lss-1138/SparseTSF,lss-1138/SegRNN&type=Date)](https://star-history.com/#lss-1138/SparseTSF&lss-1138/SegRNN&Date)
