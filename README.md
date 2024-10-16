@@ -7,4 +7,4 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lss-1138&show_icons=true&locale=en" alt="lss-1138" /></p>
 
 
-<h3 align="center">Connect with me:  linss2000@foxmail.com</h3>
+<h3 align="center">Connect with me: cslinshengsheng@mail.scut.edu.cn</h3>
