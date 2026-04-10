@@ -8,5 +8,4 @@
 
 <h3 align="center">Connect with me: cslinshengsheng@mail.scut.edu.cn</h3>
 
-
-![info](https://github-readme-stats.vercel.app/api?username=lss-1138&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![Visitors](https://komarev.com/ghpvc/?username=lss-1138&label=Visitors&color=red&style=flat)
