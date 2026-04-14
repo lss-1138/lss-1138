@@ -16,6 +16,6 @@
     <li>Multimodal Models</li>
   </ul>
 
-  <p align="center">
+  <p align="left">
     <img src="https://komarev.com/ghpvc/?username=lss-1138&label=Visitors&color=0f3d75&style=flat" alt="Visitors" />
   </p>
