@@ -3,7 +3,7 @@
   <h3 align="left">Expected to graduate in June 2027</h3>
 
   <p align="left">
-    <a href="https://lss-1138.github.io/"><strong>Visit My Academic Homepage</strong></a>
+    <a href="https://lss-1138.github.io/"><strong>Visit My Homepage</strong></a>
   </p>
 
   <p align="left"><strong>Research Interests</strong></p>
