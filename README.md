@@ -1,21 +1,29 @@
-  <h1 align="left">Shengsheng Lin (林升升)</h1>
-  <h3 align="left">Ph.D. Student in Computer Science, South China University of Technology</h3>
-  <h3 align="left">Expected to graduate in June 2027</h3>
+# Shengsheng Lin (林升升)
 
-  <p align="left">
-    <a href="https://lss-1138.github.io/"><strong>Visit My Homepage</strong></a>
-  </p>
+**Ph.D. Student in Computer Science, South China University of Technology**  
+Expected to graduate in June 2027
 
-  <p align="left"><strong>Research Interests</strong></p>
+[Homepage](https://lss-1138.github.io/) · [Google Scholar](https://scholar.google.com.hk/citations?user=_qbjJbAAAAAJ&hl=en)
 
-  <ul>
-    <li>Time Series Forecasting</li>
-    <li>Periodicity-Aware Learning</li>
-    <li>Multivariate Forecasting</li>
-    <li>Foundation Models</li>
-    <li>Multimodal Models</li>
-  </ul>
+## About
 
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=lss-1138&label=Visitors&color=0f3d75&style=flat" alt="Visitors" />
-  </p>
+My research spans **time series forecasting** and **post-training for LLM coding models**. I am currently an LLM Coding Post-Training Intern at Tencent WXG, working on models that turn one-sentence requirements into complete, functional WeChat Mini Programs.
+
+**Highlights:** 1100+ Google Scholar citations · ICML Oral · NeurIPS Spotlight · IEEE TPAMI · ESI Highly Cited Paper
+
+## Research Interests
+
+- LLM post-training for code generation and software engineering
+- Training data, verifiable rewards, and evaluation for coding models
+- Multi-expert learning and model integration
+- Efficient architectures for time series forecasting
+- Periodicity-aware and multivariate temporal modeling
+
+## Representative Work
+
+- [SparseTSF](https://github.com/lss-1138/SparseTSF) — ICML 2024 Oral
+- [CycleNet](https://github.com/ACAT-SCUT/CycleNet) — NeurIPS 2024 Spotlight
+- [TQNet](https://github.com/ACAT-SCUT/TQNet) — ICML 2025
+- [SegRNN](https://github.com/lss-1138/SegRNN) — IEEE Internet of Things Journal, 2026
+
+![Visitors](https://komarev.com/ghpvc/?username=lss-1138&label=Visitors&color=0f3d75&style=flat)
