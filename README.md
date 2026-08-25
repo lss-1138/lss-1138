@@ -19,11 +19,5 @@ My research spans **time series forecasting** and **post-training for LLM coding
 - Efficient architectures for time series forecasting
 - Periodicity-aware and multivariate temporal modeling
 
-## Representative Work
-
-- [SparseTSF](https://github.com/lss-1138/SparseTSF) — ICML 2024 Oral
-- [CycleNet](https://github.com/ACAT-SCUT/CycleNet) — NeurIPS 2024 Spotlight
-- [TQNet](https://github.com/ACAT-SCUT/TQNet) — ICML 2025
-- [SegRNN](https://github.com/lss-1138/SegRNN) — IEEE Internet of Things Journal, 2026
 
 ![Visitors](https://komarev.com/ghpvc/?username=lss-1138&label=Visitors&color=0f3d75&style=flat)
