@@ -9,7 +9,7 @@ Expected to graduate in June 2027
 
 My research spans **time series forecasting** and **post-training for LLM coding models**. I am currently an LLM Coding Post-Training Intern at Tencent WXG, working on models that turn one-sentence requirements into complete, functional WeChat Mini Programs.
 
-**Highlights:** 1100+ Google Scholar citations · ICML Oral · NeurIPS Spotlight · IEEE TPAMI · ESI Highly Cited Paper
+**Highlights:** 1200+ Google Scholar citations · ICML Oral · NeurIPS Spotlight · IEEE TPAMI · ESI Highly Cited Paper
 
 ## Research Interests
 
